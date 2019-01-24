@@ -1,0 +1,21 @@
+#mid-body{
+  background-size: contain;
+  opacity: 0.5;
+  height: 1000px;
+  min-width: 100%;
+
+}
+#content1{
+  opacity: 1 ;
+  color: black;
+  top: -1500px;
+  margin: -500px 10px 10px 10px;
+}
+a {
+  color: brown;
+}
+h1{
+  background-color: brown;
+  color: floralwhite;
+  background-size: contain;
+}
